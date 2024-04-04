@@ -1,0 +1,1 @@
+/Users/air/Documents/programmingwork/rust/cli-apps/wasif_weather_cli_app/target/debug/wasif_weather_cli_app: /Users/air/Documents/programmingwork/rust/cli-apps/wasif_weather_cli_app/src/main.rs /Users/air/Documents/programmingwork/rust/cli-apps/wasif_weather_cli_app/src/weather/helper.rs /Users/air/Documents/programmingwork/rust/cli-apps/wasif_weather_cli_app/src/weather/mod.rs
